@@ -1,2 +1,2 @@
 # Connect-4-Preet-Patel
- To build a successful game.In this case it is Connect 4
+ To build a successful game of Connect 4. 
